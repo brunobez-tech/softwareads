@@ -1,0 +1,107 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #c8d4ce;
+    color: #084902;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #f14040;
+    font-size: 4em;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+h2{
+    color: #129ca8;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.4em;
+    text-align: justify;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #13550d;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+
+img {
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: 3px 4px 3px rgba(16, 92, 16, 0);
+    margin: 10px;
+}
+
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid #11004e;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+th {
+    background-color: #055f67;
+    color: rgb(255, 255, 255);
+}
+
+
+a {
+    display: inline-block;
+    margin: 20px;
+    text-decoration: none;
+    color: #f00000;
+    font-size: 2em;
+    font-weight: bold;
+
+}
+
+a:hover {
+    color: #046637;
+}
+
+#mensagem {
+    margin-top: 20px;
+    font-size: 2em;
+    color: #ff0808;
+    font-weight: bold;
+}
+
+
+button {
+    background-color: #d0f309;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #0a393c;
+}
